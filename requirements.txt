@@ -1,0 +1,18 @@
+# Core scraping libraries
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# Data handling
+pandas==2.0.3
+
+# For potential JavaScript/AJAX scraping
+selenium==4.10.0
+webdriver-manager==3.8.6
+
+# Additional utilities
+lxml==4.9.3
+html5lib==1.1
+
+# For handling web APIs (if needed)
+urllib3==2.0.4
+fake-useragent==1.1.3
