@@ -8,6 +8,7 @@ This repository contains my journey of learning web scraping techniques using Py
 
 ## 📂 Project Structure
 
+```
 .
 ├── ajax/                  - Scraping dynamic AJAX content
 │   └── main.py
@@ -19,6 +20,7 @@ This repository contains my journey of learning web scraping techniques using Py
 ├── pagination/            - Handling paginated content
 │   ├── football.csv
 │   └── main.py
+```
 
 ## Technologies Used
 
